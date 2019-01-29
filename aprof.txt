@@ -1,0 +1,7 @@
+chemist
+craftman
+artist
+tailor
+actor
+teacher
+doctor

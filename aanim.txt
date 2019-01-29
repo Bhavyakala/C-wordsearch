@@ -1,0 +1,7 @@
+pig
+puppy
+monkey
+yak
+zebra
+frog
+ant

@@ -1,0 +1,7 @@
+black
+green
+magenta
+chrome
+neon
+red
+yellow

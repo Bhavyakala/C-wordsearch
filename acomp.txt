@@ -1,0 +1,7 @@
+google
+intel
+hp
+apple
+hcl
+facebook
+amazon
